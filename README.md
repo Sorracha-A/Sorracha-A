@@ -9,7 +9,7 @@ This is my porfolio website:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like python.
 
-## ✨ Skills ✨
+## ✨ Favourite Skills ✨
 
 💻 Programming 💻
 
