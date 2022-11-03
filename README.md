@@ -25,4 +25,7 @@ This is my porfolio website: https://sorracha-a.github.io/Butus-Responsive-Portf
 < OS and Hardware >
 
 <img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/raw/main/images/OS_Hardware/windows.png?raw=true" style="max-width: 100%;">  <img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/raw/main/images/OS_Hardware/raspberrypi.png?raw=true" style="max-width: 100%;">  <img height="50em" src="https://kb.helpline.w3.uvm.edu/wp-content/uploads/2020/06/1200px-MacOS_logo_2017-1.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Outdated macOS and How to Upgrade – UVM Knowledge Base" data-noaft="1" style="max-width: 100%">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorracha-A&hide=contribs,issues,prs&theme=radical)
+
     
