@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Sorracha Aiemmeesri. I'm a second year student studying software engineering in KMITL(King Mongkut's Institute of Technology Ladkrabang).
+My name is Sorracha. I'm a second year student studying software engineering in KMITL(King Mongkut's Institute of Technology Ladkrabang).
 
 This is my porfolio website: https://sorracha-a.github.io/Butus-Responsive-Portfolio-Website/
 
