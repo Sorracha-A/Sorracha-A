@@ -55,4 +55,5 @@ This is my porfolio website: https://sorracha-a.github.io/Butus-Responsive-Portf
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorracha-A&hide=contribs,issues,prs&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorracha-A&layout=compact)](https://github.com/Sorracha-A/github-readme-stats)
     
